@@ -1,0 +1,21 @@
+body{
+background-image: url('./todolist.jpg');
+height: 100vh;
+
+
+}
+div.collection-item{
+border-style: groove;
+
+
+
+}
+div.todo-app.container{
+background-color: tomato;
+border-style:outset;
+
+
+
+
+
+}
