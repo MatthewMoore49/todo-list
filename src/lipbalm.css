@@ -1,11 +1,34 @@
-body{
-background-image: url('./todolist.jpg');
-height: 100vh;
 
+
+body  {
+    color:rgb(39, 21, 21);
+    text-align:center;
+    background-image: url('./todolist.jpg');
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-size: 12px;
+    -webkit-animation: backgroundScroll 120s linear 1;
+    -webkit-animation-fill-mode:both;
+    animation: backgroundScroll 120s linear 10;
+    animation-fill-mode: forwards;
+    height: 100vh;
+}
+
+@-webkit-keyframes backgroundScroll {
+from {background-position: 0 0;}
+to {background-position: -180px 0px;}
+}
+
+@keyframes backgroundScroll {
+from {background-position: 0 0;}
+to {background-position: -180px 0px;}
 
 }
 div.collection-item{
 border-style: groove;
+color:darkblue;
+font-size:x-large;
 
 
 
@@ -13,9 +36,16 @@ border-style: groove;
 div.todo-app.container{
 background-color: tomato;
 border-style:outset;
-
-
+}
+h1.center.blue-text{
+color:darkblue;
+font-size: xx-large;
 
 
 
 }
+label{
+    color:darkblue;
+    font-size:medium;  
+}
+

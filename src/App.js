@@ -5,8 +5,8 @@ import AddTodo from './AddTodo'
  class App extends Component {
    state = {
      todos: [
-       {id: 1, content: 'take a shower'},
-       {id: 2, content: 'brush your teeth'}
+       {id: 1, content: 'Wash the Car!'},
+       {id: 2, content: 'Put Laundry in Dryer'}
      ]
    }
    deleteTodo = (id) => {
