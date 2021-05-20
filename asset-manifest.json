@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/todo-app/static/css/main.bb0a793c.chunk.css",
-    "main.js": "/todo-app/static/js/main.96909d5e.chunk.js",
-    "main.js.map": "/todo-app/static/js/main.96909d5e.chunk.js.map",
-    "runtime-main.js": "/todo-app/static/js/runtime-main.b7d791c8.js",
-    "runtime-main.js.map": "/todo-app/static/js/runtime-main.b7d791c8.js.map",
-    "static/js/2.0d7d89f2.chunk.js": "/todo-app/static/js/2.0d7d89f2.chunk.js",
-    "static/js/2.0d7d89f2.chunk.js.map": "/todo-app/static/js/2.0d7d89f2.chunk.js.map",
-    "static/js/3.f6dc53e3.chunk.js": "/todo-app/static/js/3.f6dc53e3.chunk.js",
-    "static/js/3.f6dc53e3.chunk.js.map": "/todo-app/static/js/3.f6dc53e3.chunk.js.map",
-    "index.html": "/todo-app/index.html",
-    "static/css/main.bb0a793c.chunk.css.map": "/todo-app/static/css/main.bb0a793c.chunk.css.map",
-    "static/js/2.0d7d89f2.chunk.js.LICENSE.txt": "/todo-app/static/js/2.0d7d89f2.chunk.js.LICENSE.txt",
-    "static/media/lipbalm.css": "/todo-app/static/media/todolist.93a7ef5d.jpg"
+    "main.css": "/todo-list/static/css/main.51df6ec2.chunk.css",
+    "main.js": "/todo-list/static/js/main.96909d5e.chunk.js",
+    "main.js.map": "/todo-list/static/js/main.96909d5e.chunk.js.map",
+    "runtime-main.js": "/todo-list/static/js/runtime-main.e44b4b46.js",
+    "runtime-main.js.map": "/todo-list/static/js/runtime-main.e44b4b46.js.map",
+    "static/js/2.0d7d89f2.chunk.js": "/todo-list/static/js/2.0d7d89f2.chunk.js",
+    "static/js/2.0d7d89f2.chunk.js.map": "/todo-list/static/js/2.0d7d89f2.chunk.js.map",
+    "static/js/3.f6dc53e3.chunk.js": "/todo-list/static/js/3.f6dc53e3.chunk.js",
+    "static/js/3.f6dc53e3.chunk.js.map": "/todo-list/static/js/3.f6dc53e3.chunk.js.map",
+    "index.html": "/todo-list/index.html",
+    "static/css/main.51df6ec2.chunk.css.map": "/todo-list/static/css/main.51df6ec2.chunk.css.map",
+    "static/js/2.0d7d89f2.chunk.js.LICENSE.txt": "/todo-list/static/js/2.0d7d89f2.chunk.js.LICENSE.txt",
+    "static/media/lipbalm.css": "/todo-list/static/media/todolist.93a7ef5d.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b7d791c8.js",
+    "static/js/runtime-main.e44b4b46.js",
     "static/js/2.0d7d89f2.chunk.js",
-    "static/css/main.bb0a793c.chunk.css",
+    "static/css/main.51df6ec2.chunk.css",
     "static/js/main.96909d5e.chunk.js"
   ]
 }
